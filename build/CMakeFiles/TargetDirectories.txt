@@ -1,0 +1,5 @@
+/Users/francocuppari/Wario/build/CMakeFiles/Shooter25D_Qt_SDL.dir
+/Users/francocuppari/Wario/build/CMakeFiles/edit_cache.dir
+/Users/francocuppari/Wario/build/CMakeFiles/rebuild_cache.dir
+/Users/francocuppari/Wario/build/CMakeFiles/Shooter25D_Qt_SDL_autogen_timestamp_deps.dir
+/Users/francocuppari/Wario/build/CMakeFiles/Shooter25D_Qt_SDL_autogen.dir

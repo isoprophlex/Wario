@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Shooter25D_Qt_SDL_FILE /Users/francocuppari/Wario/build/Shooter25D_Qt_SDL)
+set(__QT_DEPLOY_TARGET_Shooter25D_Qt_SDL_TYPE EXECUTABLE)
